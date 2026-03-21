@@ -7,6 +7,11 @@ This project analyzes employee data using MySQL to generate insights that will s
 - Deliver a thorough and up to date  report using a BI Tool.
 - Identify key metrics and performance indicators to enable the company to track in the longterm.
 
+
+## Tools Used
+1. MySQL: For data exploration and manipulation'
+2. PowerBI: For visualization and reporting.
+
 ## Deliverables
 - Analyzed employee distribution by department, age, gender, and location
 - Evaluated hiring trends over time using date functions like CURDATE()

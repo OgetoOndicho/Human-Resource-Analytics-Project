@@ -22,7 +22,7 @@ This project analyzes employee data using MySQL to generate insights that will s
 - Turnover Rates: Which department has the highest turnover rate? What could be some of the most probable reasons for it?
 
 ## Tools Used
-1. MySQL: For data exploration and manipulation'
+1. MySQL: For data exploration, cleaning and manipulation'
 2. PowerBI: For visualization and reporting.
 
 ## Findings 

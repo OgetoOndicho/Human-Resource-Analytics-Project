@@ -1,5 +1,5 @@
 # Human-Resource-Analytics-Project
-This project analyzes employee data using MySQL to generate insights that will support the Human Resource office decision-making processes.The dataset includes employee data, demographics, job titles, departmental titles, termination records, and geographic distribution. The company stakeholders would love some Key questions answered through a comprehensive report
+This project analyzes employee data using MySQL to generate insights that will support the Human Resource office decision-making processes.The dataset includes various employee data metrics such as age, gender, demographics, job titles, departmental titles, termination records, and geographic distribution. The company stakeholders would love some Key questions answered through a comprehensive report
 
 ## Business Objectives;
 - Perform comprehensive cleaning,  transformation and analysis on the Human Resource data.

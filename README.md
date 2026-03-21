@@ -21,12 +21,11 @@ This project analyzes employee data using MySQL to generate insights that will s
 - Termination Rate Analysis: Calculated the average length of employment before an employee is terminated?
 - Turnover Rates: Which department has the highest turnover rate? What could be some of the most probable reasons for it?
 
-
 ## Tools Used
 1. MySQL: For data exploration and manipulation'
 2. PowerBI: For visualization and reporting.
 
-## Deliverables
+## Findings 
 - Analyzed employee distribution by department, age, gender, and location
 - Evaluated hiring trends over time using date functions like CURDATE()
 - Assessed workforce demographics and diversity patterns

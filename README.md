@@ -15,7 +15,7 @@ This project analyzes employee data using MySQL to generate insights that will s
 - Which department has the highest turnover rates?
 - What is the tenure distribution for each department?
 
-## Mandatory deliverable Metrics and Insights
+## Mandatory deliverable Metrics
 - Age distribution of employees: Involved grouping criterion for employees aged 18 and above (≥ 18 years)
 - Gender breakdown of employees: Are females the majority? Are the males the mjority?
 - Termination Rate Analysis: Calculated the average length of employment before an employee is terminated?

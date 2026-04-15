@@ -1,5 +1,5 @@
 # Broadway Inc (HR-ANALYTICS) Project
-This project analyzes employee data using MySQL to generate insights that will enable stakeholders at Broadway Human Resource with decision-making processes. The dataset includes important employee metrics such as age, gender, demographics, job titles, departmental titles, termination records, and geographic distribution. Broadway company stakeholders would love some Key questions answered through a comprehensive report.
+This project analyzes employee data using MySQL to generate insights that will enable stakeholders at Broadway Inc - Human Resource Department with decision-making processes. The dataset includes important employee metrics such as age, gender, demographics, job titles, departmental titles, termination records, and geographic distribution. Broadway Inc stakeholders would love some Key questions answered through a comprehensive report.
 
 ## Business Objectives;
 - Perform comprehensive cleaning,  transformation and analysis on the Human Resource data.
@@ -23,7 +23,7 @@ This project analyzes employee data using MySQL to generate insights that will e
 
 ## Tools Used
 1. MySQL: For data exploration, cleaning and manipulation'
-2. PowerBI: For visualization and reporting.
+2. Google Sheets: For visualization and reporting.
 
 
 ## Topic Covered
@@ -102,7 +102,9 @@ FROM human_resource
 WHERE termdate = '2026-03-21'
 AND employee_age >=18;
 ```
-From the findings, as of the date 2026-03-21, the employees terminated had been with the company for close to 15 years.
+From the findings, as of the date 2026-03-21, the employees terminated had been with the company for a total of 15 years.
+
+
 
 
 

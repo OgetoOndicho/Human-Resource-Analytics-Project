@@ -1,4 +1,4 @@
-# Broadway Inc (HR-ANALYTICS) Project
+# Broadway Inc (HUMAN RESOURCE DEPARTMENT ANALYTICS) Project
 This project analyzes employee data using MySQL to generate insights that will enable stakeholders at Broadway Inc - Human Resource Department with decision-making processes. The dataset includes important employee metrics such as age, gender, demographics, job titles, departmental titles, termination records, and geographic distribution. Broadway Inc stakeholders would love some Key questions answered through a comprehensive report.
 
 ## Business Objectives;
